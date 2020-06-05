@@ -1,0 +1,6 @@
+Este es un documento de prueba para aprender a usar git
+
+este texto esta creado dentro de la carpeta Prueba_Git 
+
+La carpeta Prueba_Git fue inicializada en git con el comando init git
+
