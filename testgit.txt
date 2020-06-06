@@ -1,3 +1,5 @@
+Este archivo se edito en la rama master
+
 Este es un documento de prueba para aprender a usar git
 
 este texto esta creado dentro de la carpeta Prueba_Git 
@@ -15,3 +17,6 @@ ESTA ES LA SEGUNDA MODIFICACIOON DEL ARCHIVO
 tercera modificacion
 
 LIENA DE DESARROLLO PARA UNA RAMA ALTERNA AL PROYECTO
+
+
+archivo editado en la rama master 
