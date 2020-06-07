@@ -14,9 +14,4 @@ ESTA ES LA PRIMERA MODIFICACION
 
 ESTA ES LA SEGUNDA MODIFICACIOON DEL ARCHIVO
 
-tercera modificacion
-
-LIENA DE DESARROLLO PARA UNA RAMA ALTERNA AL PROYECTO
-
-
-archivo editado en la rama master 
+tercera modificacion 
