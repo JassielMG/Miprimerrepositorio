@@ -5,3 +5,6 @@ Este archivo no exite en la rama master ydebera aparece cuenco de fucione con la
 linea agreado desde rama secundaria
 
 ARCHIVO editado desde la plataforma github o desde el servidor remoto
+
+otro colaboraadoor entro a modificar al archivo
+
